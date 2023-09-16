@@ -1,0 +1,21 @@
+/*Mi Estilo CSS*/
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+}
+
+/* Estilos para elementos con la clase logo-image */
+.logo-image {
+    width: 150px;
+    /* Ancho */
+    height: 50px;
+    /* Altura */
+}
+
+
+/* Color del texto del Navbar */
+#menutop.navbar-dark .navbar-nav .nav-link {
+    color: black;
+}
